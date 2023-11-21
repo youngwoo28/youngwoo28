@@ -1,8 +1,7 @@
 ### Hi welcome to young woo's github 👋
 
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeAuto&animation=fadeIn&height=200&section=header&text=%Nice+to+meet+you%20&fontSize=30&)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=nice+to+meet+you)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=020608&random=false&width=435&lines=nice+to+meet+you)](https://git.io/typing-svg)
 ## 🪪 Introduction
 - Hobby - Watching movies, watching YouTube
 - Occupation - University student
