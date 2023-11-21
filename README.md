@@ -19,7 +19,7 @@
 
 ## 🪪 favorite thing
 - Favorite Hobby - Watching movies, watching YouTube, Billiards
-- Favorite movie - Action, a scary movie, comedies movies
+- Favorite movie - Action, a scary, comedies movies
 - Favorite animal - Dog, cat , baby animals, etc
 - Favorite food - sushi, jokbal, pork belly
 <br>
