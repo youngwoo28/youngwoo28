@@ -16,7 +16,6 @@
 - Favorite food - sushi, jokbal, pork belly
 - Occupation - University student
 <br>
-## 🪪 Introduction
 
  [![youngwoo choi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=youngwoo28)](https://github.com/youngwoo28)
 [![mio0's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyoungwoo)](https://github.com/youngwoo28/github-readme-stats)
