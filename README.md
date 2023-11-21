@@ -10,18 +10,18 @@
 <br>
 
 ## 🪪 Introduction
-- University - Oriental Future University
-- Occupation - University student
-- Department - Artificial Intelligence Software Division
 - Where to live - Living in Seoul
+- Occupation - University student
+- University - Oriental Future University
+- Department - Artificial Intelligence Software Division
 - Current Situation - Studying Software Development
 <br>
 
 ## 🪪 favorite thing
-- Favorite movie, YouTube genre. - Action, funny thing
+- Favorite Hobby - Watching movies, watching YouTube, Billiards
+- Favorite movie, YouTube - Action, funny thing
 - Favorite animal - Dog, cat , baby animals, etc
 - Favorite food - sushi, jokbal, pork belly
-- Favorite Hobby - Watching movies, watching YouTube, Billiards
 <br>
 
 [![youngwoo choi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=youngwoo28)](https://github.com/youngwoo28)
