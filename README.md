@@ -1,6 +1,8 @@
 ### Hi welcome to young woo's github 👋
 
-![header](https://capsule-render.vercel.app/api?type=Rounded)
+![header](https://capsule-render.vercel.app/api?type=Rounded&animation=fadeIn&height=200&section=header&text=%20Wtime%20&fontSize=70&)
+
+
 [![mio0's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyoungwoo)](https://github.com/youngwoo28/github-readme-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://m.blog.naver.com/test_-"><img src="https://img.shields.io/badge/My naver blog-03C75A?style=flat Sponsors&logoColor=yellow&link=블로그 주소"/></a>
