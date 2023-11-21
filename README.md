@@ -13,8 +13,8 @@
 - Hobby - Watching movies, watching YouTube
 - Favorite movie, YouTube genre. - Action, funny thing
 - Favorite animal - dog, cat , baby animals, etc
-- Occupation - University student
 - Favorite food - sushi, jokbal, pork belly
+- Occupation - University student
 
  [![youngwoo choi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=youngwoo28)](https://github.com/youngwoo28)
 [![mio0's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyoungwoo)](https://github.com/youngwoo28/github-readme-stats)
