@@ -24,7 +24,7 @@
 - Favorite food - sushi, jokbal, pork belly
 <br>
 
-## Use To Code
+## Skill
 
 <p>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
