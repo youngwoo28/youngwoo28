@@ -9,12 +9,6 @@
 <br>
 
 
-
-
-
-
-
-<br>
 ## 🪪 Introduction
 - Hobby - Watching movies, watching YouTube
 - Occupation - University student
