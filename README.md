@@ -4,6 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Let+me+introduce+myself.)](https://git.io/typing-svg)
 
 -Hobby - Watching movies, watching YouTube
+-Occupation - University student
+-
+
 
  [![youngwoo choi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=youngwoo28)](https://github.com/youngwoo28)
 [![mio0's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyoungwoo)](https://github.com/youngwoo28/github-readme-stats)
