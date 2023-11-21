@@ -13,7 +13,7 @@
 - one's current place of residence - Living in Seoul
 - Occupation - University student
 - University - Oriental Future University
-- Department - Artificial Intelligence Software Division
+- Department - Artificial Intelligence Software
 - Current Situation - Studying Software Development
 <br>
 
