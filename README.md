@@ -1,6 +1,6 @@
 ### Hi welcome to young woo's github 👋
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&animation=fadeIn&height=200&section=header&text=%20Hi welcome to young woo's github 👋%20&fontSize=70&)
+![header](https://capsule-render.vercel.app/api?type=Rounded&animation=fadeIn&height=200&section=header&text=%20Hi young woo's github 👋%20&fontSize=70&)
 
 
 [![mio0's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyoungwoo)](https://github.com/youngwoo28/github-readme-stats)
