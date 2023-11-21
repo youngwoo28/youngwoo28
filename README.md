@@ -10,7 +10,7 @@
 <br>
 
 ## 🪪 Introduction
-- Where to living - Living in Seoul
+- one's current place of residence - Living in Seoul
 - Occupation - University student
 - University - Oriental Future University
 - Department - Artificial Intelligence Software Division
