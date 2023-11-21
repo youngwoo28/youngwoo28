@@ -12,9 +12,10 @@
 ## 🪪 Introduction
 - Hobby - Watching movies, watching YouTube
 - Favorite movie, YouTube genre. - Action, funny thing
-- Favorite animal - dog, cat , baby animals, etc
+- Favorite animal - Dog, cat , baby animals, etc
 - Favorite food - sushi, jokbal, pork belly
 - Occupation - University student
+- Where to live - Living in Seoul
 <br>
 
  [![youngwoo choi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=youngwoo28)](https://github.com/youngwoo28)
