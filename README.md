@@ -46,7 +46,8 @@
 [![mio0's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyoungwoo)](https://github.com/youngwoo28/github-readme-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?youngwoo28=6810779s&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngwoo28&layout=레이아웃 스타일&theme=스타일)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 
 
