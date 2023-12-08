@@ -42,5 +42,6 @@
 [![youngwoo choi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=youngwoo28)](https://github.com/youngwoo28)
 [![mio0's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyoungwoo)](https://github.com/youngwoo28/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chlduddn1)](https://solved.ac/chlduddn1)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngwoo28&layout=compact&size=20&theme=tokyonight)
 
