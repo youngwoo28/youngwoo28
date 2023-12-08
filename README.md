@@ -40,6 +40,7 @@
 
 
 
+[![youngwoo28's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youngwoo28)](https://wakatime.com/@youngwoo28)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngwoo28&layout=compact&theme=tokyonight)
 <br>
