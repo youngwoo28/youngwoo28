@@ -54,7 +54,7 @@
 - [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:qkrdlfvy0@naver.com)](mailto:qkrdlfvy0@naver.com)
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a01092011940@gmail.com)](mailto:a01092011940@gmail.com)
 
-## 🪪  My importmation
+## 🪪  My Information
 [![youngwoo choi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=youngwoo28)](https://github.com/youngwoo28)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngwoo28&layout=compact&size=20&theme=tokyonight)
 <br>
