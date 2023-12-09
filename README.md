@@ -11,7 +11,7 @@
 
 <br>
 
-## 🪪 Introduction
+## 😉 Introduction
 - one's current place of residence - Living in Seoul
 - Occupation - University student
 - University - Oriental Future University
