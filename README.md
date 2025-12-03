@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Main Stack
+## Main Stack
 
 <p align="center">
   <!-- AI & Data -->
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 - **동양미래대학교 인공지능소프트웨어과**  
   - 재학 기간: **2021.03 ~ 2026.02 (졸업 예정)**  
@@ -37,9 +37,9 @@
 
 ## Projects
 
-### SmartCook (냉장고 재료 털이 AI 서비스)
+- **SmartCook – 냉장고 재료 털이 AI 서비스** |  
+   [GitHub Repository](https://github.com/youngwoo28/smartcook-ai) ·  [시연 영상](https://www.youtube.com/watch?v=jwLQ02vwwZ8)
 
-[GitHub Repository](https://github.com/youngwoo28/smartcook-ai)
 
 ---
 
