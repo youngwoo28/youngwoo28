@@ -35,24 +35,13 @@
 
 ---
 
-## 💻 Projects
+## Projects
 
-### SmartCook (냉장고 재료 털이 AI 서비스)  
-> 냉장고 속 재료 이미지를 AI로 분석하여, 만들 수 있는 요리를 추천해주는 웹 서비스
+### SmartCook (냉장고 재료 털이 AI 서비스)
 
-- 기간: **2025.05 ~ 2025.09**
-- 역할:
-  - **Backend API 개발**
-  - **이미지 분석 AI 모델(YOLO) 연동**
-  - **DB 설계**
-- 기술 스택:
-  - **Node.js**, **Python**, **YOLO**
-- 핵심 성과:
-  - **스마트 냉장고가 없어도**, 냉장고 사진만으로  
-    사용자에게 **가능한 레시피를 추천하는 이미지 기반 주방 보조 시스템** 구현
+[GitHub Repository](https://github.com/youngwoo28/smartcook-ai)
 
 ---
-
 
 ## Certificates
 
