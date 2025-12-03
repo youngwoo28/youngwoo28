@@ -16,7 +16,6 @@
 
 ---
 
-## Main Stack
 
 ## Main Stack
 
@@ -35,6 +34,7 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git LFS-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 ---
 
 ## Education
