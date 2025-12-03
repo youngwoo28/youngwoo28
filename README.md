@@ -51,7 +51,7 @@
 
 ## Projects
 
-- **SmartCook – 냉장고 재료 털이 AI 서비스** |  [GitHub Repository](https://github.com/youngwoo28/smartcook-ai) ·  [시연 영상](https://www.youtube.com/watch?v=jwLQ02vwwZ8)
+- **SmartCook – 냉장고 재료 털이 AI 서비스** |  [GitHub Repository](https://github.com/youngwoo28/smartcook-ai) ·  [시연 영상](https://www.youtube.com/watch?v=jwLQ02vwwZ8)·  [tistory]([https://www.youtube.com/watch?v=jwLQ02vwwZ8](https://record50460.tistory.com/2))
 
 
 ---
