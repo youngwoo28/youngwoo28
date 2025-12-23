@@ -7,7 +7,7 @@
 <!-- Social Badges -->  
 <p align="center">   
   <a href="mailto:a01092011940@gmail.com">   
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" /> 
   </a>
   <a href="https://github.com/youngwoo28"> 
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
