@@ -5,7 +5,7 @@
 </p>             
                     
 <!-- Social Badges -->  
-<p align="center">   
+<p align="center">    
   <a href="mailto:a01092011940@gmail.com">      
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" /> 
   </a>
