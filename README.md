@@ -3,7 +3,7 @@
 <p align="center">                     
   <strong>"데이터와 소프트웨어로 가치를 만드는 개발자, <span style="font-size: 1.1em;">최영우</span>입니다."</strong>                
 </p>                   
-                                
+                                 
 <!-- Social Badges -->     
 <p align="center">     
   <a href="mailto:a01092011940@gmail.com">      
